@@ -1,4 +1,4 @@
-# Who is Kevin Yu
+# A little bit about Kevin Yu.
 ### Howdy 👋!
 
 My name is Kevin Yu, I'm a 4th year Computer Engineering :computer: Student at Queens University. Besides being a programmer, I'm an active long-distance runner :runner:, I enjoy reading non-fiction books :books: about psychology and self improvement, and I dabble here and there into UI/UX design :art:. 
