@@ -1,8 +1,10 @@
 ### Howdy 👋!
 
-My name is Kevin Yu, I'm a 4th year Computer Engineering Student at Queens University. Besides being a programmer, I'm an active long-distance runner, I enjoy reading non-fiction books about psychology and self improvement, and I dabble here and there into UI/UX design. Now, I decided on Computer Engineering as a career option because I've always dreamt of building cool technology that could impact me or someone else in their day to day lives. This ambition of mine has lead me down ventures such as working at a small startup company, competing in hackathons, developing websites , building order management systems for clients as well as working as a software engineering intern.
+My name is Kevin Yu, I'm a 4th year Computer Engineering :computer: Student at Queens University. Besides being a programmer, I'm an active long-distance runner :runner:, I enjoy reading non-fiction books :books: about psychology and self improvement, and I dabble here and there into UI/UX design :art:. 
 
-Recently, I just finished my internship at PWC (PricewaterhouseCoopers) working as a software engineering intern, and now I'm finishing up my senior year of university. We'll see where life takes me from here, but I'm excited for whatever life throws my way ✨!
+Now, I decided on Computer Engineering as a career option because I've always dreamt of building cool technology :iphone: that could impact me or someone else in their day to day lives. This ambition of mine has lead me down ventures such as working at a small startup company, competing in hackathons, developing websites, building order management systems for clients as well as working as a software engineering intern.
+
+Recently, I just finished my internship at PWC (PricewaterhouseCoopers) working as a software engineering intern, and now I'm finishing up my senior year of university. We'll see where life takes me from here, but I'm excited for whatever life throws my way :mortar_board:!
 
 
 <!--
