@@ -1,24 +1,8 @@
-# A little bit about Kevin Yu.
-### Howdy 👋!
+# Kevin Yu's Socials
 
-My name is Kevin Yu, I'm a 4th year Computer Engineering :computer: Student at Queens University. Besides being a programmer, I'm an active long-distance runner :runner:, I enjoy reading non-fiction books :books: about psychology and self improvement, and I dabble here and there into UI/UX design :art:. 
+## Portfolio
+[![image](https://github.com/user-attachments/assets/49312f42-66c5-491c-9f54-9a18a5eadd7c)](https://kevinyu.ca)
 
-Now, I decided on Computer Engineering :electric_plug: as a career option because I've always dreamt of building cool technology :iphone: that could impact me or someone else in their day to day lives. This ambition of mine has lead me down ventures such as working at a small startup company, competing in hackathons, developing websites, building order management systems for clients as well as working as a software engineering intern.
+## Resume
+[![Resume Highlight](https://github.com/user-attachments/assets/cecf81b1-a0a5-4565-90e8-a74925974e30)](https://kevinyu.ca/resume)
 
-Recently, I just finished my internship at PWC (PricewaterhouseCoopers) working as a software engineering intern, and now I'm finishing up my senior year of university. We'll see where life takes me from here, but I'm excited for whatever life throws my way :mortar_board:!
-
-
-<!--
-**KevinYuCode/KevinYuCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
