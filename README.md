@@ -6,6 +6,6 @@
 
 
 ## Resume
-[![Resume-Poster](https://github.com/user-attachments/assets/3a427284-2c3c-4d95-92a5-b18d679a7457)](https://kevinyu.ca/resume)
+[![Resume-Poster](https://github.com/user-attachments/assets/3a427284-2c3c-4d95-92a5-b18d679a7457)](https://kevinyu.ca/resume/Kevins-Resume.pdf)
 
 
